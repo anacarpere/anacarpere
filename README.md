@@ -25,6 +25,7 @@ Em busca do primeiro job na área 🤓
 
 ### Cursos e Bootcamps
 
+-[Java e Orientação a Objetos - Alura - 121 horas](https://cursos.alura.com.br/formacao-java)<br/>
 -[Bootcamp Desenvolvedor Java Full Stack - SoulCode - 16 semanas](https://soulcodeacademy.org/curso-java-full-stack)<br/>
 -[Bootcamp Full Stack Developer Santander- DIO - 125 horas/in progress](https://www.dio.me/bootcamp/santander-fullstack-developer)<br/>
 -[Curso Introdução JavaScript - Curso em Vídeo - 40 horas](https://www.cursoemvideo.com/curso/javascript/)<br/>
